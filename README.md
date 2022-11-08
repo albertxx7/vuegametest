@@ -3,13 +3,9 @@
 ## 使用技術
 ```
 後端：Firebase Hosting、Authentication、Firestore Database
-前端：VUE3;Option API、VUEX、Bootstrap、Swiper、Sweetalert2
-```
-
-### 
-```
 Firebase資料庫以新版本Version9進行撰寫，使用非同步涵數減少code行數，並將資料庫code進行模組化封裝。
-
+--------
+前端：VUE3;Option API、VUEX、Bootstrap、Swiper、Sweetalert2
 ```
 
 ### 已有功能
