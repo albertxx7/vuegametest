@@ -1,24 +1,22 @@
-# newvueshop
+#8bit GameShop
 
-## Project setup
+## 使用技術
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+後端：Firebase Hosting、Authentication、Firestore Database
+前端：VUE3;Option API、VUEX、Bootstrap、Swiper、Sweetalert2
 ```
 
-### Compiles and minifies for production
+### 已有功能
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+瀏覽者可將喜愛商品加入購物車，但需註冊登入後方可將購物車內商品進行結帳。
+登入後跳轉至會員中心，會員可修改個人資料並實時更新。
+使用VUE生命週期Mounted監聽使用者螢幕位置讀取Window高度進行css動畫效果降低套件使用增加效能
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 預計新增功能
+```
+1.加入優惠券代碼功能
+2.訂單功能實時加入會員中心(進度50%)
+```
+
+
