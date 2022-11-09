@@ -9,13 +9,7 @@ import { getStorage } from "firebase/storage";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCk1RpDy1dWugV17oxYOjSFQqeq5sdpvq0",
-  authDomain: "vuegameshop.firebaseapp.com",
-  projectId: "vuegameshop",
-  storageBucket: "vuegameshop.appspot.com",
-  messagingSenderId: "597642571607",
-  appId: "1:597642571607:web:91ca4dd95acda0ec695812",
-  measurementId: "G-2NXFBFEGCK"
+
 };
 
 // Initialize Firebase
